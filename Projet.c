@@ -6,7 +6,7 @@
 
 #define Max 10
 
-// create structure chambre
+// creer structure chambre
 typedef struct {
     int numch;
     char type[100];
